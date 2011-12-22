@@ -1,0 +1,7 @@
+h1. Navigation
+
+ !image/nav1.png! 
+
+ !image/nav2.png! 
+
+ !image/nav3.png! 
