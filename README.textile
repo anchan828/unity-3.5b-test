@@ -1,7 +1,7 @@
 h1. Navigation
 
- !image/nav1.png! 
+ !https://github.com/anchan828/unity-3.5b-test/raw/master/image/nav1.png! 
 
- !image/nav2.png! 
+ !https://github.com/anchan828/unity-3.5b-test/raw/master/image/nav2.png! 
 
- !image/nav3.png! 
+ !https://github.com/anchan828/unity-3.5b-test/raw/master/image/nav3.png! 
